@@ -1,0 +1,18 @@
+Python
+Python is a high-level, interpreted language known for its clean syntax and readability. It's often praised for being easy to learn.
+
+Primary Use Cases:
+
+Data Science, AI & Machine Learning: This is its biggest domain. It's the standard for libraries like Pandas, NumPy, Scikit-learn, TensorFlow, and PyTorch.
+
+Web Development (Backend): Used to build server-side applications with frameworks like Django and Flask.
+
+Scripting & Automation: Widely used for automating repetitive tasks, writing system scripts, and building developer tools.
+
+Popularity Data:
+
+TIOBE Index: Consistently ranks as the #1 most popular programming language worldwide.
+
+Stack Overflow Survey: Regularly voted the most "wanted" language (meaning developers who don't use it want to learn it) and is one of the most commonly used.
+
+Community: Has an extremely large and active community, especially in scientific and data-focused fields

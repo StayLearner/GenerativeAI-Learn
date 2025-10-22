@@ -1,0 +1,20 @@
+JavaScript (JS)
+JavaScript is a high-level, dynamic language that is the core technology of the web. It's the only language that runs natively in web browsers.
+
+Primary Use Cases:
+
+Frontend Web Development: Used to create all interactive elements on a website. It powers frameworks like React, Angular, and Vue.
+
+Backend Web Development: With Node.js, JavaScript can run on the server, allowing for full-stack development using a single language.
+
+Mobile Apps: Used in frameworks like React Native to build cross-platform mobile apps.
+
+Desktop Apps: Used with frameworks like Electron (which powers VS Code and Slack).
+
+Popularity Data:
+
+Stack Overflow Survey: Has been the most commonly used programming language for over a decade.
+
+GitHub: Consistently has the most repositories and active projects.
+
+Ecosystem: The npm (Node Package Manager) is the largest ecosystem of open-source libraries in the world.
